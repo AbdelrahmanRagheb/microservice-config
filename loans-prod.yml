@@ -2,7 +2,7 @@
 build:
     version: "3.0"
 
-accounts:
+loans:
     message: "welcome to Loans microservice made by me"
     contactDetails:
         name: "ABDELRAHMAN FATHY - Production Manager"
