@@ -1,0 +1,15 @@
+
+build:
+    version: "1.0"
+
+accounts:
+    message: "welcome to Account microservice made by me"
+    contactDetails:
+        name: "ABDELRAHMAN FATHY - DEVELOPER"
+        email: "abdelrahman.fatht.562@gmail.com"
+    onCallSupport:
+        - (555) 555-12345
+        - (666) 666-12345
+
+
+
