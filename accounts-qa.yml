@@ -5,7 +5,7 @@ build:
 accounts:
     message: "welcome to Account microservice made by me"
     contactDetails:
-        name: "ABDELRAHMAN FATHY - QA Lead"
+        name: "ABDELRAHMAN FATHY - QA (quality assurance) Lead"
         email: "{cipher}62fa4af96247e54a8084cd3b00c1f5356b17cdda4ccf38944677f87b7f31230c1d5f4defd0f72087fc30c0c1b1d7a2c2"
     onCallSupport:
         - (555) 555-12345
